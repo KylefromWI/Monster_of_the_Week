@@ -101,9 +101,9 @@ for rolls that furthered that goal.
 
 ### Sect
 #### Good traditions
-Pick two: (Need help: Chapters everywhere, Integrated in society, knowledgeable, rich)
+Integrated in society and knowledgable
 #### Bad traditions
-Pick one: (tradition bound, closed hierarchy, Strict laws, Total obedience)
+Total obedience
 #### Gear
 * sword (2-harm hand messy) or silver knife (1-harm hand silver)
 * 9 mm (2-harm close loud)
