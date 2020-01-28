@@ -6,13 +6,14 @@ Cover situations when the game rules step in to help determine what happens.
 | **Move** | **Rating** | **10+** | **7-9** | **Miss ** | **Description** | 
 |---|---|---|---|---|---|
 | Act under pressure | Cool | Do what you set out to | Keeper gives worse outcome, hard choice, or price | Things to to hell | Catch all for difficult or dangerous shit | 
-| Help out | Cool | +1 on their roll | +1 on their roll but you expose self to trouble or danger | Expose self to trouble or danger with no benefit | Give someone else a bonus by helping |
-| Investigate a mystery | Sharp | Hold 2 | Hold 1 | Reveal some information about yourself | Work out what kind of monster, what it can do, and what it's planning |
-| Kick some ass | Tough | Chose one extra effect | Succeed | Get your ass kicked, do no harm | On any success you trade harms |
+| Help out | Cool | +1 on their roll | +1 on their roll but you expose self to trouble or danger | Expose self to trouble or danger with no benefit | Give someone else a bonus on their move by helping (bonus does not stack with others also helping) |
+| Investigate a mystery | Sharp | Hold 2 | Hold 1 | Reveal some information about yourself | Ask a question and await the results |
+| Kick some ass | Tough | Chose one extra effect | Succeed | Get your ass kicked, do no harm | On a success you trade harms with the target |
 | Protect someone | Tough | Choose an extra | Succeed | You end up making things worse | Protect someone |
-| Manipulate someone | Charm | They'll do it as long as you reward them as promised | They'll do it but only if you do something for them now | You offend or anger the target | Persuade someone after giving some reasoning |
+| Manipulate someone (normal person) | Charm | They'll do it as long as you reward them as promised | They'll do it but only if you do something for them now | You offend or anger the target | Persuade someone after giving some reasoning |
+| Manipulate someone (another hunter) | Charm | They mark experience and get +1 forward if they do what you ask | They mark experience if they do what you ask | They decide how badly you offend or annoy them. They mark experience if they *dont* do what you ask | Persuade another hunter after you give reasoning |
 | Read a bad situation | Sharp | Hold 3 | Hold 1 | Misread the situaton or reveal tactical details to enemies | Ask a question. If you act on the answers get +1 ongoing while info is relevant. |
-| Use magic | Weird | Magic works without issues | Works imperfectly. Choose a glitch | Lose control of the magic | Spells and enchanted items |
+| Use magic | Weird | Magic works without issues | Works imperfectly. Choose a glitch | Lose control of the magic | Pick intended effect. On success it lasts ~30 minutes and does not expose you to danger, unwanted attention, or side-effects |
 
 ### Investigate a Mystery Questions
 * What happened here?
@@ -61,6 +62,22 @@ Cover situations when the game rules step in to help determine what happens.
 * You take 1 harm ignore armor
 * The magic draws immediate, unwelcome attention
 * Problematic side effect
+
+### Magic Possible Requirements
+* Requires weird materials
+* Spell will take some time to cast (10 s, 30 s, or 1 min)
+* Spell requires ritual chanting or gestures
+* Spell requires drawing arcane symbols
+* You need one or two people to help cast
+* You need to refer to tome for details
+
+### Big Magic Possible Requirements
+* You need to spend a lot of time (days or weeks) to research the ritual
+* You need to experiment, there may be lots of failures
+* You need rare or weird ingredients and supplies
+* The spell will take a long time to cast (hours or days)
+* You need a lot of people to help (2, 3, 7, 13, or more)
+* The spell needs to be cast at a certain place or time
 
 ## Ratings (Stats)
 
