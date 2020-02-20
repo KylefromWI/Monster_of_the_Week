@@ -13,7 +13,7 @@ It's a late Spring Thursday in the small midwestern town of Maple Yard. College 
 #### Brian Masterson
 A junior in high school who has recently gone missing. Everyone knows him. He's on the student council, etc. He is 17 (has a relatively late birthday). Muscularish, decently tall, blond haired and blue eyed. He's worked at Culvers for `HELP: was it around 1 month?`
 #### Dan Masterson
-Writer for the Maple Yard Gazette and younger brother of Brian. 
+Writer for the Maple Yard Gazette and Dad of Brian. 
 #### Billy Billyson
 A high school senior and Culvers employee. He currently has no love interest (and may be a thief at the grocery store?)
 #### Charol
@@ -36,7 +36,7 @@ Has a replacement knee.
 Wears a punked out letterman jacket and carries a skateboard because he can't afford a car. Has a backpack and bat for protection. 
 
 ## Lisa Lovelace
-Parents are from out of town and were conspiracy theorists from an island. Also are dead. She works in the Jergers' maple grove
+Parents are from town and were conspiracy theorists from an island. Also are dead. She works in the Jergers' maple grove
 
 A regular at Culvers, Lisa is on friendly terms with Barry (who understands the importance of stellar customer service).
 He knows her "usual". 
