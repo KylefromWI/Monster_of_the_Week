@@ -7,6 +7,8 @@ It's a late Spring Thursday in the small midwestern town of Maple Yard. College 
 * Gods Hand: a cliffy outcropping just outside of town that is called such because it looks like a fist giving the 'thumbs up'. Known as a popular makeout spot among high schoolers. Also the site of disappearance(s?)
 * Culvers: Culvers
 * St. Doms: Catholic church
+* Sheriff station: Goodman's office is usually tidy. In the waiting room they have issues of Ranger Rick and "sports newspapers"
+* Ranger place &trade; aka "ranger's hovel" or cabin
 
 ### People
 
@@ -16,16 +18,23 @@ A junior in high school who has recently gone missing. Everyone knows him. He's 
 Writer for the Maple Yard Gazette and Dad of Brian. 
 #### Billy Billyson
 A high school senior and Culvers employee. He currently has no love interest (and may be a thief at the grocery store?)
-#### Charol
+#### Charol Underhill
 Receptionist at the police station.
 #### Sheriff Goodman
 Early 30s, out of the military. Been in Maple Yard for about 8 months, this would be his first disappearance.
 #### Will Csivel
 Culvers regional manager
-#### Jim and John
-Two workers at the Maple Grove
+#### Jim Wilkinson and John
+Two workers at the Maple Grove.
 #### Fr. Manahan
 The Superior of the Midwest Jesuit province. aka Daddy Manny or papa
+### Carol Underhill
+Waitress at the Jedi Garden. Sister to Charol. Recently put her hair into a side break because she saw it on TV. Mistook chocolate chip pancakes for Mickey Mouse pancakes.
+### Mark Wilkinson
+Local park ranger and brother of Jim. He "is all about vague informative lizard facts". Nice guy. Been around a long time, presents at schools. Favorite "lizard" is the anaconda. 
+### Deputy Trevor
+Newer member of the Maple Yard police force.
+
 
 ## Barry "Beatdown" Rockwell
 
@@ -75,3 +84,34 @@ This is the first disappearance that Lisa has been in town for.
 ### Quincy
 
 ## Friday
+
+## Saturday
+
+breakfast
+
+goodman1
+
+ranger mark
+
+god's hand
+
+marky mark mark2
+
+### Mega K Mart
+#### Barry
+* Gatorades: cool ice, fruit punch, grape
+* 2 bags of beef jerky
+* 2 2-packs hostess cupcakes
+* duct tape
+#### Lisa
+* Cheez-its
+* Scooby Doo fruit snacks
+* Tourniquet
+* Flare
+* Net
+#### Quincy
+* Tourniquet
+* 3 good flashlights
+* 3 headlamps
+* Net
+* Litmus paper
