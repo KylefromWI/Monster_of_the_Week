@@ -87,15 +87,34 @@ This is the first disappearance that Lisa has been in town for.
 
 ## Saturday
 
-breakfast
+### Morning
+The three adventurers decided to meet for breakfast at the local restaurant *Jedi Garden*. There they laboriously navigated social interactions with the waitress Carol. 
 
-goodman1
+After breakfest the ventured to the Sheriff's office to figure out if Goodman had learned anything. An exhausted Sheriff Goodman in his freshly messy office let them know nothing of interest was learned. But our adventurers snuck looks at the paperwork strewn over his desk. It showed many old case files regarding disappearances, many given the cause of animal attack and labeled either dogs or bear.
 
-ranger mark
+In the most recent case the detective at the time insisted it was a reptile attack. 
 
-god's hand
+Sheriff Goodman is advised to look for a pair of jeans at the rocky outcrop and the adventurers depart. 
 
-marky mark mark2
+### Ranger Marky Mark
+
+Ranger mark hasn't seen any usual owl activity and yellow salamanders are native to these parts. 
+
+The tooth: Some kind of reptile. Most likely South American, the size of an alligator, upon closer look there is a small opening where venom would be stored.
+
+Ranger Mark is aware Quincy was examining his reactions to the tooth in a semi-suspicious manner. 
+
+The egg: He is genuinely surprised at its existance. A flashlight isn't strong enough to see any fetus, but a stronger light reveals it is fertilized. 
+
+### Gods Hand
+
+Deputy Trevor is a kill joy and says we can't cross the police tape. We search the strange shrub, there is a hatch underneath. 
+
+Goodman is at the plateau and is taking pictures. 
+
+### Marky Mark Mark2
+
+The incisor is closest to a Komodo Dragon. It would need a warmer place to sleep than Maple Yard would provide, but the cave would work. A komodo dragon could physically climb a ladder but is too dumb to do so. The poison is a potent neurotoxin. The best remedy without an antidote is to immediately cut off blood supply. 
 
 ### Mega K Mart
 #### Barry
@@ -109,6 +128,16 @@ marky mark mark2
 * Tourniquet
 * Flare
 * Net
+
+From before Mega K Mart
+* 50 feet of rope with grappling hook
+* Topographic map of the area and compass
+* axe
+* first aid kit
+* canteen of water
+* Notebook and pen
+* trail mix
+
 #### Quincy
 * Tourniquet
 * 3 good flashlights
